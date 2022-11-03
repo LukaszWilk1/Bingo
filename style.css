@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center  ;
+}
+h1{
+    font-size: 7rem;
+    margin: 0.3em 0;
+    background: rgb(194,226,23);
+background: linear-gradient(90deg, rgba(194,226,23,1) 0%, rgba(253,29,29,1) 27%, rgba(252,247,69,1) 100%);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-bottom: 30px;  
+}
+table{
+    border-collapse: collapse;
+    margin: 0 auto; 
+}
+td{
+    max-width: 120px;
+    word-break: break-word;
+    height: 120px;
+    width: 120px;
+    border: 1px solid black;
+    background-size: cover;
+    padding: 5px;
+}
+.background{
+    background-image: url("x-png-18.png");
+}
